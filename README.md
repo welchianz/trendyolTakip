@@ -1,4 +1,4 @@
-# trendyolTakip
+# urunTakip
 I made an existing trendyol tracking application a little more user-friendly
 
 Innovations:
@@ -11,7 +11,7 @@ Anotation: In order for the program to work properly, click the link below and g
 
 https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4PNIIr8S-FVrKtuyR77JB9leMB2ZA_rpU6AUyHIYLF2u5KrONwbl0TlvldpQHNF5hXlfoxV2AKtjOYDZBkPE89u1hPq2A
 
-# trendyolTakip
+# urunTakip
 
 Mevcut bir trendyol takip uygulamasını biraz daha kullanıcı dostu hale getirdim.
 
