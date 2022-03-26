@@ -13,8 +13,6 @@ https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4PNIIr8S-FVrKtuyR77J
 
 # trendyolTakip
 
-Türkçe
-
 Mevcut bir trendyol takip uygulamasını biraz daha kullanıcı dostu hale getirdim.
 
 Yenilikler:
